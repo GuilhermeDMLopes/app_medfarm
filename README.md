@@ -1,16 +1,11 @@
 # app_medfarm
 
-A new Flutter project.
+This App was developed to integrate Patients, Pharmacies and Doctors
 
-## Getting Started
+## Objective
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our goal is to make life faster and easier. The Patient can find and make appointments with his/her 
+doctor online or in his/her office. The app shows the closest doctors around and send a solicitation
+for appointment. The doctor can accept or decline. Also, we have the pharmacies where the patient can
+buy the medication prescribed by the doctor. He can order by place or delivery based in his/her location.
+The pharmacies can receive the prescription by the patient, the doctor or both of them.
